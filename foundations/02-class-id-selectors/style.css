@@ -1,0 +1,23 @@
+.oddnumber {
+    background-color: lightcoral;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    color: black;
+    font-size: medium;
+}
+
+.thirdelement {
+    font-size: 24px;
+}
+
+#secondelement { 
+    color: blue;
+    font-size: 36px;
+}
+
+#fourthelement {
+    background-color: lightgreen;
+    color: black;
+    font-size: 24px;
+    font-weight: bold;
+
+}
