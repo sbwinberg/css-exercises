@@ -76,18 +76,21 @@ button.cancel {
 }
 .icon{
   flex-shrink: 0;
+  margin: 0px 16px 8px 0px;
 }
 
 .head-and-button{
   display: flex;
   font-size: large;
   font-weight: bold;
-  justify-content: start;
-}
-.container{
-  padding: 8px;
+  justify-content: start
 }
 
 div button.close-button {
   margin-left: auto;
+}
+
+.text {
+  padding-top: 8px;
+  padding-bottom: 16px;
 }
